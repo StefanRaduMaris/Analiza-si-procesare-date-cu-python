@@ -1,0 +1,97 @@
+﻿order_id,date,customer_id,customer_name,product,category,quantity,price,total_amount,status
+1,4/19/2025,9929,Diana Casey,Microwave,Home Appliances,1,338.64,338.64,Canceled
+2,4/19/2025,7809,Jonathan Gordon,Coffee Machine,Home Appliances,5,57.09,285.45,Canceled
+3,4/12/2025,8185,Adam Burns,Microwave,Home Appliances,1,71.8,71.8,Canceled
+4,4/23/2025,2468,Eric Turner,Running Shoes,Sports,1,905.52,905.52,Pending
+5,4/24/2025,7612,Anita Garner,Sneakers,Fashion,5,1245.39,6226.95,Pending
+6,4/10/2025,9892,Gabrielle Kim,Jacket,Fashion,2,385.01,770.02,Canceled
+7,4/1/2025,4961,Edward Evans,Microwave,Home Appliances,4,491.13,1964.52,Completed
+8,4/2/2025,5602,Jillian Bailey,Microwave,Home Appliances,1,212.54,212.54,Canceled
+9,4/5/2025,3581,Raymond Mendoza,Smartphone,Electronics,2,246.98,493.96,Completed
+10,4/11/2025,4610,Heather Bailey,Handbag,Fashion,4,287.64,1150.56,Pending
+11,4/1/2025,8645,Rodney Brown,Startup Growth,Books,4,808.91,3235.64,Canceled
+12,4/1/2025,4200,Randy Summers,Vacuum Cleaner,Home Appliances,3,1279.52,3838.56,Pending
+13,4/17/2025,9763,Crystal Holt,Microwave,Home Appliances,2,579.07,1158.14,Pending
+14,4/30/2025,1377,Cynthia Burke,Monitor,Electronics,2,81.59,163.18,Canceled
+15,4/20/2025,2648,John Brown,Digital Marketing,Books,5,756.39,3781.95,Canceled
+16,4/25/2025,8365,John Lindsey,Cycling Helmet,Sports,3,491.17,1473.51,Completed
+17,4/21/2025,9061,Kimberly Massey,Air Purifier,Home Appliances,3,1474.79,4424.37,Canceled
+18,4/25/2025,8656,Christina Gutierrez,Dumbbells,Sports,4,144.02,576.08,Canceled
+19,4/2/2025,9444,Barbara Bridges,Startup Growth,Books,5,1080.26,5401.3,Pending
+20,4/6/2025,3192,Eric Vance,Startup Growth,Books,2,1197.83,2395.66,Completed
+21,4/7/2025,3489,Daniel Dodson,Air Purifier,Home Appliances,4,1346.21,5384.84,Pending
+22,4/23/2025,8012,Kevin Edwards,Data Science Guide,Books,4,505.97,2023.88,Canceled
+23,4/20/2025,3517,Annette Hammond,Cycling Helmet,Sports,2,1104.44,2208.88,Canceled
+24,4/6/2025,7504,William Hogan,AI Revolution,Books,1,1463.09,1463.09,Completed
+25,4/1/2025,6399,Courtney Rhodes,Digital Marketing,Books,2,87.48,174.96,Completed
+26,4/29/2025,1688,Nicole Martin,T-shirt,Fashion,3,198.56,595.68,Canceled
+27,4/25/2025,1433,Colleen Flores,Laptop,Electronics,1,1117.83,1117.83,Completed
+28,4/7/2025,7920,David Weaver,Handbag,Fashion,1,1237.37,1237.37,Completed
+29,4/8/2025,3135,Lance Massey,Cycling Helmet,Sports,3,1295.37,3886.11,Completed
+30,4/30/2025,4287,John Green,Smartwatch,Electronics,5,463.67,2318.35,Completed
+31,4/6/2025,7259,Darrell Barker,Dumbbells,Sports,5,212.04,1060.2,Completed
+32,4/3/2025,2915,Steven Miller,Monitor,Electronics,3,1200.1,3600.3,Pending
+33,4/23/2025,5728,Brianna Barker,Digital Marketing,Books,1,1048.24,1048.24,Canceled
+34,4/10/2025,4943,Breanna Adams,Cycling Helmet,Sports,3,1425.47,4276.41,Completed
+35,4/5/2025,2900,Tony Castro,Jeans,Fashion,1,599.75,599.75,Pending
+36,4/25/2025,2859,Vincent Matthews,Cycling Helmet,Sports,5,149.59,747.95,Completed
+37,4/21/2025,5512,Sarah Brown,Monitor,Electronics,3,407.84,1223.52,Pending
+38,4/14/2025,4359,Veronica Boyer DDS,Jeans,Fashion,1,322.66,322.66,Pending
+39,4/25/2025,4119,Xavier Johnson,Startup Growth,Books,1,266.71,266.71,Pending
+40,4/4/2025,6357,Shane Mcclure,Digital Marketing,Books,4,1093.7,4374.8,Pending
+41,4/19/2025,8879,Andrew Stevens,Sneakers,Fashion,5,817.31,4086.55,Canceled
+42,4/5/2025,2013,Mary Perry,T-shirt,Fashion,1,1254.16,1254.16,Completed
+43,4/2/2025,8947,Tara Hull,Smartwatch,Electronics,1,183.8,183.8,Pending
+44,4/30/2025,8559,Angel Jones,Dumbbells,Sports,5,1092.67,5463.35,Canceled
+45,4/27/2025,5957,Tyler Hoover,Microwave,Home Appliances,4,1101.92,4407.68,Pending
+46,4/19/2025,1711,Eugene Burton,Headphones,Electronics,4,733.78,2935.12,Completed
+47,4/17/2025,6439,Sonia Gill,Air Purifier,Home Appliances,3,634.93,1904.79,Completed
+48,4/5/2025,2863,Jacqueline Lee,Sneakers,Fashion,4,988.11,3952.44,Completed
+49,4/13/2025,5567,Audrey Grant,Data Science Guide,Books,4,1392.43,5569.72,Canceled
+50,4/9/2025,6501,Mark Pollard,Monitor,Electronics,3,191.51,574.53,Canceled
+51,4/19/2025,8038,Kaitlyn Alexander,Digital Marketing,Books,4,1326.95,5307.8,Completed
+52,4/13/2025,6506,Kathryn Long,Yoga Mat,Sports,4,1250.21,5000.84,Pending
+53,4/13/2025,1702,Cassidy Wilson,Digital Marketing,Books,5,1271.75,6358.75,Canceled
+54,4/12/2025,4732,Shirley Clay,Data Science Guide,Books,1,1165.67,1165.67,Completed
+55,4/23/2025,3446,Keith Taylor,Monitor,Electronics,1,111.8,111.8,Canceled
+56,4/9/2025,9130,Christopher Martin,Air Purifier,Home Appliances,1,334.38,334.38,Pending
+57,4/2/2025,4269,Frank Peck,Startup Growth,Books,1,567.56,567.56,Completed
+58,4/30/2025,3589,Tony Chung,Coffee Machine,Home Appliances,3,1143.83,3431.49,Completed
+59,4/28/2025,4543,Michelle Anderson,Jacket,Fashion,4,843.1,3372.4,Completed
+60,4/3/2025,8743,Joseph Velez,Python Programming,Books,5,19.47,97.35,Completed
+61,4/24/2025,1608,Sharon Hughes,Running Shoes,Sports,2,392.49,784.98,Pending
+62,4/12/2025,9515,Teresa White,Monitor,Electronics,5,322.69,1613.45,Completed
+63,4/6/2025,4681,Donna Miller,Jeans,Fashion,5,1373.51,6867.55,Pending
+64,4/26/2025,5379,Darlene Reeves,Microwave,Home Appliances,3,1310.03,3930.09,Completed
+65,4/30/2025,6433,Cheryl Ward,Data Science Guide,Books,5,22.23,111.15,Completed
+66,4/23/2025,3040,Kyle Howell,Vacuum Cleaner,Home Appliances,1,495.16,495.16,Completed
+67,4/6/2025,5307,Erika Flores,AI Revolution,Books,3,630.74,1892.22,Pending
+68,4/18/2025,3423,Lawrence Brown,Dumbbells,Sports,5,1311.61,6558.05,Pending
+69,4/23/2025,6124,Jerry Bryant,Air Purifier,Home Appliances,3,828.46,2485.38,Canceled
+70,4/23/2025,3403,Heather Oliver,Blender,Home Appliances,2,32.35,64.7,Pending
+71,4/2/2025,7845,Jeffrey Parks,Yoga Mat,Sports,3,1329.64,3988.92,Canceled
+72,4/10/2025,9154,Mr. Kyle Garcia,Handbag,Fashion,5,185.07,925.35,Canceled
+73,4/8/2025,4688,Steven Hampton,Python Programming,Books,1,1066.62,1066.62,Canceled
+74,4/11/2025,8900,Matthew Robertson,Digital Marketing,Books,3,853.37,2560.11,Completed
+75,4/7/2025,9561,Austin Baxter,Running Shoes,Sports,4,147.86,591.44,Canceled
+76,4/13/2025,2675,Kelly Burns,Laptop,Electronics,3,535.31,1605.93,Canceled
+77,4/26/2025,4920,Jason Jones,Jeans,Fashion,2,184.97,369.94,Pending
+78,4/6/2025,6725,James Johnson,Vacuum Cleaner,Home Appliances,1,597.12,597.12,Canceled
+79,4/1/2025,8598,Katherine Anderson,Blender,Home Appliances,2,1419.97,2839.94,Pending
+80,4/10/2025,8381,Brian Fields,Yoga Mat,Sports,3,872.34,2617.02,Pending
+81,4/24/2025,2306,Nathan Lopez,Microwave,Home Appliances,5,43.1,215.5,Canceled
+82,4/20/2025,3688,Ryan Sellers,Digital Marketing,Books,2,1154.1,2308.2,Canceled
+83,4/7/2025,4395,Lisa Kim,Digital Marketing,Books,5,403.75,2018.75,Canceled
+84,4/9/2025,5939,Evan Harris,Jacket,Fashion,5,1276.67,6383.35,Pending
+85,4/21/2025,1939,Jose Elliott,Digital Marketing,Books,3,733.46,2200.38,Pending
+86,4/10/2025,6354,Andrea Wright,T-shirt,Fashion,1,1102.75,1102.75,Pending
+87,4/2/2025,8429,Hector Medina,Python Programming,Books,3,1244.36,3733.08,Pending
+88,4/23/2025,5855,Jay Sanchez DDS,Blender,Home Appliances,1,425.46,425.46,Pending
+89,4/23/2025,9503,Justin Herring,Cycling Helmet,Sports,5,795.48,3977.4,Completed
+90,4/25/2025,3151,Catherine Brewer,Handbag,Fashion,4,1135.14,4540.56,Pending
+91,4/12/2025,7260,Cynthia Johnson,Laptop,Electronics,2,538.43,1076.86,Completed
+92,4/28/2025,8758,Steven Jensen,Blender,Home Appliances,1,858.3,858.3,Pending
+93,4/26/2025,5473,Richard Johnson,Air Purifier,Home Appliances,5,61.28,306.4,Canceled
+94,4/21/2025,5861,Jamie Powell,Treadmill,Sports,3,405.64,1216.92,Canceled
+95,4/18/2025,1206,Rachael Brown,Yoga Mat,Sports,1,1163.19,1163.19,Canceled
+96,4/7/2025,2974,Austin Curry,Digital Marketing,Books,1,918.98,918.98,Completed
