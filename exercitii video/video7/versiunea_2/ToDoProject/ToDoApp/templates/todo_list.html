@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>todo_list</title>
+    <style>
+        .done {
+              text-decoration: line-through;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tema pentru vineri 9 mai, ziua Europei!!</h1>
+    <form action="" method="get">
+         <select name="filter" id="" onchange="this.form.submit()">
+                <option value="all"
+                    {% if filter_type == "all" %}
+                        selected
+                    {% endif %}
+                >Toate</option>
+                <option value="done"
+                     {% if filter_type == "done" %}
+                        selected
+                    {% endif %}
+                >Done</option>
+                <option value="undone"
+                     {% if filter_type == "undone" %}
+                        selected
+                    {% endif %}
+                >Todo</option>
+         </select>
+         <input type="submit" value="Alege">
+    </form>
+   
+
+    <ol>
+        {% for model in model_list %}
+        
+            <li>    
+            {% if model.is_done %}
+                 <span class="done"> {{model}}  </span>
+            {% else %}
+                 <span > {{model}}  </span>
+            {% endif %}
+                    
+                    <a href= "{% url 'mark_todo_url' model.id %}" >
+                            {% if model.is_done %}
+                                ↩️
+                            {% else %}
+                                ✅
+                            {% endif %}
+                    </a>
+
+                    <a href= "{% url 'update_todo_url' model.id %}" >✍️</a>
+
+                      <a href= "{% url 'delete_todo_url' model.id %}" >❌</a>
+             </li>
+        {% endfor %}
+    </ol>
+    <button onclick="document.location.href='{% url 'create_todo_url' %}'">Adauga task</button>
+    
+    <a href="{% url 'create_todo_url' %}" >Adauga task</a>
+
+    <button><a href="{% url 'create_todo_url' %}" >Adauga task</a></button>
+
+     <a href="{% url 'create_todo_url' %}" >  <button>Adauga task</button> </a>
+
+</body>
+</html>

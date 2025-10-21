@@ -1,0 +1,31 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Aici se afla formularul tau </h1>
+    <input type="checkbox" name="whithdigits" id="">
+    <label for="whithdigits">Cu numere?</label>
+    <input type="checkbox" name="whithupper" id="" >
+    <label for="whithupper">Cu litere mari?</label>
+    <input type="checkbox" name="whithpunctuation" id="" >
+    <label for="whithpunctuation">Cu punctuatie?</label>
+
+    <form action = "" method ='get'>
+    <input type="int" min=10 max=24 value=10 name="lungime" id="">
+    <input type="submit" value="submit">
+    
+    
+    </form>
+    
+    {% if parola %}
+        <h2>{{parola}}</h2>
+    {% endif %}
+
+</body>
+</html>

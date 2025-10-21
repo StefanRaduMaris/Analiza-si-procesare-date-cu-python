@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h1>Rock Paper Scissors</h1>
+    
+    <form action="" method="post">
+        {% csrf_token %} 
+        <select name="chosen" id="">
+
+            {% for name, value in pairs  %}
+                <option value="{{ value }}"> {{name}}</option>
+            {% endfor %}
+
+        </select>
+        <button type="submit">Trimite</button>
+    </form>
+
+    {% if client %}
+        <p> Ai ales: {{client}} </p>
+        <p> Serverul a ales: {{server}} </p>
+        <p> Rezultatul este: {{rezultat}} </p>
+    {% endif %}
+
+</body>
+</html>
